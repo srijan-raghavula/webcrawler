@@ -1,0 +1,12 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "a project to crawl through the web pages and give the links",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "shreezn",
+  "license": "ISC"
+}
